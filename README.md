@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Kunaal 👋
 
-<!--
-**Kunaal786/Kunaal786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year Computer Science student at the University of Leeds with industry experience in software engineering and an interest in IT operations, cyber security, operating systems and automation.
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I previously completed a Software Engineering internship at Lumencipher, where I contributed to an AI-powered insurance platform using React, JavaScript, REST APIs and Git.
+
+I worked remotely with developers and stakeholders across multiple countries and gained experience debugging technical issues, identifying root causes and contributing within a professional development team.
+
+## Technical Skills
+
+- **Programming:** Python, C, Bash, JavaScript and SQL
+- **Systems and Tools:** Linux, Git, GitHub, Windows and Microsoft 365
+- **Infrastructure:** Networking, TCP/IP, DNS, HTTP/TLS, operating systems and process management
+- **Development:** React, FastAPI, Flask, REST APIs and HTML/CSS
+
+## Featured Projects
+
+### [AthletePal Project Showcase](https://github.com/Kunaal786/AthletePal-Project-Showcase)
+
+A fitness-tracking platform developed within a University of Leeds Agile software-engineering team.
+
+### [xv6 Unix Shell](https://github.com/Kunaal786/xv6-unix-shell)
+
+A Unix-style shell implemented in C for xv6, covering processes, pipes, redirection, command sequencing and system calls.
+
+### [Parallel Matrix-Vector Multiplication](https://github.com/Kunaal786/parallel-matrix-vector-multiplication)
+
+A POSIX threads project exploring parallel matrix-vector multiplication, work distribution and performance benchmarking.
+
+## Current Interests
+
+- IT operations and infrastructure
+- Cyber security
+- Linux and operating systems
+- Networking
+- Scripting and automation
+- Software engineering
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/kunaal-mulani-97019b389/)

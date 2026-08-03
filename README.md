@@ -1,4 +1,4 @@
-# Hi, I'm Kunaal 👋
+# Hi, I'm Kunaal 
 
 I am a second-year Computer Science student at the University of Leeds with industry experience in software engineering and an interest in IT operations, cyber security, operating systems and automation.
 

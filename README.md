@@ -10,7 +10,7 @@ I worked remotely with developers and stakeholders across multiple countries and
 
 ## Technical Skills
 
-- **Programming:** Python, C, Bash, JavaScript and SQL
+- **Programming:** Python, C, Bash, JavaScript, Kotlin and SQL
 - **Systems and Tools:** Linux, Git, GitHub, Windows and Microsoft 365
 - **Infrastructure:** Networking, TCP/IP, DNS, HTTP/TLS, operating systems and process management
 - **Development:** React, FastAPI, Flask, REST APIs and HTML/CSS

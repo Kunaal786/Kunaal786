@@ -1,6 +1,6 @@
 # Hi, I'm Kunaal 
 
-I am a second-year Computer Science student at the University of Leeds with industry experience in software engineering and an interest in IT operations, cyber security, operating systems and automation.
+I am a final-year Computer Science student at the University of Leeds with industry experience in software engineering and an interest in IT operations, cyber security, operating systems and automation.
 
 ## Experience
 
@@ -28,6 +28,10 @@ A Unix-style shell implemented in C for xv6, covering processes, pipes, redirect
 ### [Parallel Matrix-Vector Multiplication](https://github.com/Kunaal786/parallel-matrix-vector-multiplication)
 
 A POSIX threads project exploring parallel matrix-vector multiplication, work distribution and performance benchmarking.
+
+### Pioneer Medical Quotation Platform — Private internal project
+
+An in-development quotation platform for an insurance brokerage, built with Next.js, TypeScript, PostgreSQL and Prisma. Includes role-based workflows and server-side medical-insurance pricing logic. Source code is private because the system is intended for internal business use.
 
 ## Current Interests
 

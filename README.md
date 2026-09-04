@@ -4,13 +4,13 @@ I am a final-year Computer Science student at the University of Leeds with indus
 
 ## Experience
 
-I previously completed a Software Engineering internship at Lumencipher, where I contributed to an AI-powered insurance platform using React, JavaScript, REST APIs and Git.
+I previously completed a Software Engineering internship at LumenCipher, where I contributed to an AI-powered insurance platform using React, JavaScript, REST APIs and Git.
 
 I worked remotely with developers and stakeholders across multiple countries and gained experience debugging technical issues, identifying root causes and contributing within a professional development team.
 
 ## Technical Skills
 
-- **Programming:** Python, C, Bash, JavaScript, Kotlin and SQL
+- **Programming:** Python, C, Bash, JavaScript, Kotlin, SQL, TypeScript, Next.js, PostgreSQL and Prisma
 - **Systems and Tools:** Linux, Git, GitHub, Windows and Microsoft 365
 - **Infrastructure:** Networking, TCP/IP, DNS, HTTP/TLS, operating systems and process management
 - **Development:** React, FastAPI, Flask, REST APIs and HTML/CSS
